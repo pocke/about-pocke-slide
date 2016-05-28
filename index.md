@@ -35,7 +35,9 @@ Work at Actcat Inc. and PORT INC.
 
 - OSS
 - Relational Database
-- Sudoku
+- Puzzle Game
+  - Sudoku, Nonogram
+  - Solve by SAT Solver.
 - *NIX
 - Natural|Programming Language
 
